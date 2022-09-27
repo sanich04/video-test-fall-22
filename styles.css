@@ -1,0 +1,11 @@
+#container {
+    display: flex;
+    flex-direction: row;
+    
+}
+{
+#container div {
+    background-color:#d7b7a3 ;
+    margin: 10px;
+    }
+}
